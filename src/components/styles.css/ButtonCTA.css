@@ -1,0 +1,14 @@
+.Header__button {
+	width: 153px;
+	height: 40px;
+	background-color: #ffbd39;
+	border-style: none;
+	font-weight: bold;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+.links button:hover {
+	opacity: .8;
+	transition: .3s ease-in-out;
+}

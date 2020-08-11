@@ -2,12 +2,12 @@
 	margin: 0 110px;
 }
 .App__main-title {
-    width: 800px;
-    font-size: 64px;
-    margin: 0;
+	width: 800px;
+	font-size: 64px;
+	margin: 0;
 }
 
 .App__secondary-title {
-    margin: 100px 0 10px 0;
+	margin: 100px 0 10px 0;
 	font-weight: normal;
 }
