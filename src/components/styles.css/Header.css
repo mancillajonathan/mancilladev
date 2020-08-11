@@ -38,29 +38,13 @@ h4 {
 .links h4:hover {
 	color: #ffbd39;
 	transition: 0.4s ease;
+	cursor: pointer;
 }
-
-.Header__button {
-	width: 153px;
-	height: 40px;
-	background-color: #ffbd39;
-	border-style: none;
-	font-weight: bold;
-	border-radius: 5px;
-	font-size: 16px;
-}
-
-.links button:hover {
-	opacity: .8;
-	transition: .3s ease-in-out;
-}
-
 
 @media screen and (max-width: 376px) {
 	.Header__container {
 		flex-direction: column;
 		justify-content: end;
-		
 	}
 
 	.Header__title {
@@ -70,7 +54,6 @@ h4 {
 	.links {
 		flex-direction: column;
 	}
-
 
 	.links h4 {
 		margin: 5px;

@@ -1,0 +1,17 @@
+.Footer__container {
+    position: absolute;
+	width: 100px;
+	height: 32px;
+    bottom: 0;
+    text-align: center;
+}
+
+.Footer__legend {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
+
+	color: #000000;
+}

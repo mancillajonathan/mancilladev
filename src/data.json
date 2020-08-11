@@ -1,0 +1,62 @@
+{
+	"header": {
+		"title": "mancilla",
+		"moreInfoButton": [
+			{
+				"name": "Contact Me 🚀",
+				"link": "more-info/"
+			}
+		]
+	},
+	"home": {
+		"mainTitle": "Front-end developer and UI designer.",
+		"subtitle": "Hi I’m Jonathan! 👋🏼"
+	},
+	"links": [
+		{
+			"key": "aboutme",
+			"name": "About me",
+			"route": "about-me/"
+		},
+		{
+			"key": "portfolio",
+			"name": "Portfolio",
+			"route": "portfolio/"
+		},
+		{
+			"key": "resume",
+			"name": "Resume",
+			"route": "resume/"
+		}
+	],
+	"social": [
+		{
+			"key": "linkedin",
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/feed/"
+		},
+		{
+			"key": "twitter",
+			"name": "Twitter",
+			"link": "https://twitter.com/mancillajona"
+		},
+		{
+			"key": "dribbble",
+			"name": "Dribbble",
+			"link": "https://dribbble.com/mancillajonathan"
+		},
+		{
+			"key": "github",
+			"name": "GitHub",
+			"link": "https://github.com/mancillajonathan"
+		},
+		{
+			"key": "instagram",
+			"name": "Instagram",
+			"link": "https://www.instagram.com/mancilla_jona/"
+		}
+	],
+	"footer": {
+        "legend": "This site was built with React"
+	}
+}
