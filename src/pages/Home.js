@@ -1,8 +1,9 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import './styles/Home.css';
+import ButtonSocialMedia from '../components/ButtonSocialMedia';
 import data from '../data.json';
 
-const { home } = data;
+const { home, social } = data;
 
 function Home() {
 	return (
@@ -13,6 +14,7 @@ function Home() {
 			<h1 className='App__main-title animate__animated animate__fadeInUp'>
 				{home.mainTitle}
 			</h1>
+			<ButtonSocialMedia social={social} />
 		</div>
 	);
 }
