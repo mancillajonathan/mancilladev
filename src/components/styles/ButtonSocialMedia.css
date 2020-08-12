@@ -2,7 +2,6 @@
 	display: flex;
 	flex-direction: row;
 	animation-duration: 2s;
-	/* animation-delay: 3s; */
 }
 .ButtonSocialMedia__container {
 	margin-top: 20px;
