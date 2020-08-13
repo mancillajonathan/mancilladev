@@ -8,3 +8,17 @@
 	margin: 100px 0 10px 0;
 	font-weight: normal;
 }
+
+@media screen and (max-width: 376px) {
+	.App__main-title {
+		width: 100%;
+		font-size: 36px;
+		margin: 0;
+	}
+
+	.App__secondary-title {
+		margin: 55px 0 10px 0;
+		font-size: 20px;
+		font-weight: normal;
+	}
+}
