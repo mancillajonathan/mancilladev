@@ -9,7 +9,7 @@
 	font-weight: normal;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 414px) {
 	.App__main-title {
 		width: 100%;
 		font-size: 36px;

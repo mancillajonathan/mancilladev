@@ -1,9 +1,22 @@
 .Footer__container {
-    position: absolute;
+	position: fixed;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	display: flex;
+	bottom: 20px;
+	justify-content: center;
+}
+
+.Footer__container p {
 	width: 100px;
 	height: 32px;
-    bottom: 0;
-    text-align: center;
+}
+
+a:hover {
+	color: #091f37;
+	transform: translateY(-4px);
+	transition: 2s ease;
 }
 
 .Footer__legend {
@@ -11,7 +24,6 @@
 	font-weight: normal;
 	font-size: 12px;
 	line-height: 14px;
-	text-align: center;
 
 	color: #000000;
 }

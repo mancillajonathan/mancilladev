@@ -39,6 +39,8 @@
 		}
 	],
 	"footer": {
-		"legend": "This site was built with React"
+		"legend": "This site was built with",
+		"technology": "React ⚛️",
+		"repository": "https://github.com/mancillajonathan/mancilladev"
 	}
 }
