@@ -31,7 +31,6 @@ a {
 .links {
 	display: flex;
 	flex-direction: row;
-
 	align-items: center;
 }
 
@@ -45,7 +44,7 @@ a {
 	cursor: pointer;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 414px) {
 	.Header__container {
 		flex-direction: column;
 		justify-content: end;

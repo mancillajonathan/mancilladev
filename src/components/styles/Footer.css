@@ -1,14 +1,13 @@
 .Footer__container {
-	position: fixed;
 	width: 100%;
 	height: 40px;
 	text-align: center;
 	display: flex;
-	bottom: 20px;
 	justify-content: center;
 }
 
 .Footer__container p {
+	text-align: center;
 	width: 100px;
 	height: 32px;
 }
