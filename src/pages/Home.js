@@ -1,10 +1,9 @@
 import React from 'react';
 import './styles/Home.css';
 import ButtonSocialMedia from '../components/ButtonSocialMedia';
-import Footer from '../components/Footer';
 import data from '../data.json';
 
-const { home, social, footer } = data;
+const { home, social } = data;
 
 function Home() {
 	return (
@@ -16,7 +15,6 @@ function Home() {
 				{home.mainTitle}
 			</h1>
 			<ButtonSocialMedia social={social} />
-			<Footer footer={footer} />
 		</div>
 	);
 }
